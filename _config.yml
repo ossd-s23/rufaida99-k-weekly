@@ -19,7 +19,7 @@ description: Senior studying CS & Politics @CAS | Spring23
 # user name for GitHub.
 avatar: /rufaida99-k-weekly/images/icon.png 
 # fallback text in case image is not served and/or for screen readers
-avatar_alt_text: Avatar
+avatar_alt_text: Rufi's Avatar
 # use this separator in your blogs to indicate where the abbreviated part ends and 
 # the "Read more ..." link apprears 
 excerpt_separator: <!--more-->
@@ -32,12 +32,12 @@ excerpt_separator: <!--more-->
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: rk3963@nyu.edu
   facebook:
   flickr:
-  github: ossd-s23
+  github: rufaida99-k
   instagram:
-  linkedin:
+  linkedin: rufaidakhan
   pinterest:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -93,3 +93,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
+  
+future: true
