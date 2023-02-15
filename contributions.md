@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | [link to my contribution](https://cs.nyu.edu/~joannakl/ossd_s22/daily.html)    | course website    |   I fixed a broken link.    |
+| Feb 14   | [link to my contribution](https://cs.nyu.edu/~joannakl/ossd_s22/daily.html)    | course website    |   I fixed a broken link.    |
 |     |     |     |      |
 |     |     |     |      |
