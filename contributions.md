@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 14   | [link to my contribution](https://cs.nyu.edu/~joannakl/ossd_s22/daily.html)    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
+| 14th Feb  | [link to my contribution](https://cs.nyu.edu/~joannakl/ossd_s22/daily.html)    | course website    |   I fixed a broken link.    |
+| 5th March    | [Link](https://www.openstreetmap.org/node/2827478159)     | OpenStreetMap    | Added edits for local cafe near me    |
 |     |     |     |      |
