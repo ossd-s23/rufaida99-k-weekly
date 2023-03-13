@@ -29,3 +29,4 @@ Replace the first row with your own contribution.
 | 12th March     | [Link](https://en.wikipedia.org/w/index.php?title=List_of_NYU_GSAS_people&diff=prev&oldid=1144264488)           | WikiPedia Edit   | Added Janet Mock under notable alumni for NYU - GSAS
 | 12th March     | [Link](https://en.wikipedia.org/w/index.php?title=List_of_NYU_Stern_people&diff=prev&oldid=1144266064)           | WikiPedia Edit   | Added Peggy Yu under notable alumni for NYU - Stern
 | 12th March     | [Link](https://en.wikipedia.org/w/index.php?title=New_York_University_College_of_Arts_%26_Science&diff=prev&oldid=1144268700)           | WikiPedia Edit   | Added Valerie Mercer under notable alumni for NYU - CAS
+| 12th March     | [Link](https://www.openstreetmap.org/changeset/133606033)        | OepnStreetMap | Added edits for local H-Mart near me
