@@ -31,3 +31,4 @@ Replace the first row with your own contribution.
 | 12th March     | [Link](https://en.wikipedia.org/w/index.php?title=New_York_University_College_of_Arts_%26_Science&diff=prev&oldid=1144268700)           | WikiPedia Edit   | Added Valerie Mercer under notable alumni for NYU - CAS
 | 12th March     | [Link](https://www.openstreetmap.org/changeset/133606033)        | OepnStreetMap | Added edits for local H-Mart near me
 | 12th March     | [Link](https://www.openstreetmap.org/changeset/133606079)        | OpenStreetMap | Added edits for local WestSide Market near me
+| 24th March     | [Link](https://en.wikipedia.org/w/index.php?title=List_of_New_York_University_honorary_degree_recipients&diff=prev&oldid=1146321334)   | WikiPedia  | Added Sanna Marin the NYU Commencement Speaker List
