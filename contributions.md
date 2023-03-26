@@ -22,7 +22,8 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| 14th Feb       | [link to my contribution](https://cs.nyu.edu/~joannakl/ossd_s22/daily.html)    | course website    |   I fixed a broken link.    |
+| 14th Feb       | [link to my contribution](https://github.com/joannakl/ossd/pull/45/commits/2bc23d262c5e69f33cd405d192d27b1f00f17a78)    | course website    |   I fixed a broken link.    |
+| 15th Feb       | [Link](https://github.com/ossd-s23/project-evaluation/issues/3)    |  OSSD Website |      Reported broken link issue           |
 | 5th March      | [Link](https://www.openstreetmap.org/node/2827478159)     | OpenStreetMap    | Added edits for local cafe near me    |
 | 5th March      | [Link](https://www.openstreetmap.org/node/10713285741)           | OpenStreetMap     | Added a monument at a church near me     |
 | 12th March     | [Link](https://en.wikipedia.org/w/index.php?title=List_of_NYU_GSAS_people&diff=prev&oldid=1144261974)           | WikiPedia Edit   | Added Ocean Vuong under notable alumni for NYU - GSAS
