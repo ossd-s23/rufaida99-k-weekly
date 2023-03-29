@@ -30,7 +30,7 @@ Replace the first row with your own contribution.
 | 12th March     | [Link](https://en.wikipedia.org/w/index.php?title=List_of_NYU_GSAS_people&diff=prev&oldid=1144264488)           | WikiPedia Edit   | Added Janet Mock under notable alumni for NYU - GSAS
 | 12th March     | [Link](https://en.wikipedia.org/w/index.php?title=List_of_NYU_Stern_people&diff=prev&oldid=1144266064)           | WikiPedia Edit   | Added Peggy Yu under notable alumni for NYU - Stern
 | 12th March     | [Link](https://en.wikipedia.org/w/index.php?title=New_York_University_College_of_Arts_%26_Science&diff=prev&oldid=1144268700)           | WikiPedia Edit   | Added Valerie Mercer under notable alumni for NYU - CAS
-| 12th March     | [Link](https://www.openstreetmap.org/changeset/133606033)        | OepnStreetMap | Added edits for local H-Mart near me
+| 12th March     | [Link](https://www.openstreetmap.org/changeset/133606033)        | OpenStreetMap | Added edits for local H-Mart near me
 | 12th March     | [Link](https://www.openstreetmap.org/changeset/133606079)        | OpenStreetMap | Added edits for local WestSide Market near me
 | 24th March     | [Link](https://en.wikipedia.org/w/index.php?title=List_of_New_York_University_honorary_degree_recipients&diff=prev&oldid=1146321334)   | WikiPedia  | Added Sanna Marin the NYU Commencement Speaker List
 | 29th March     | [Link](https://github.com/rufaida99-k/first-contributions/commit/f1be54e09a7b038e770905a685118eaf941fcf97)   | First Contributions Project | Added Name to the list of contributors to the project 
