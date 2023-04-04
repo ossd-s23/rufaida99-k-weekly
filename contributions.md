@@ -13,7 +13,6 @@ The description should include a brief summary of what you did.
 The link should bring us to a public page that shows your contribution. 
 
 Replace the first row with your own contribution. 
-
 -->
 
 
