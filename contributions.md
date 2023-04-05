@@ -35,6 +35,6 @@ Replace the first row with your own contribution.
 | 29th March     | [Link](https://github.com/rufaida99-k/first-contributions/commit/f1be54e09a7b038e770905a685118eaf941fcf97)   | Text Contribution | Added my name to the list of contributors to the project 
 | 30th March     | [Link](https://github.com/activist-org/activist/issues/91)   | Opened an issue | Project Activist - opened an issue about web accessiblity on FAQ Page |
 | 31st March     | [Link](https://www.openstreetmap.org/changeset/134327505#map=19/40.80097/-73.96555) | OpenStreetMap  | Added local laundromat to the map |
-| 2nd-3rd April      | [Link](https://github.com/activist-org/activist/pull/92)               | Code contribution           | Project Activist - Claimed the issue I had opened before, and created a PR. It is pending a merge (passed all checks)  | 
+| 2nd-3rd April      | [Link](https://github.com/activist-org/activist/pull/92)               | Code contribution           | Project Activist - Claimed the issue I had opened before.  | 
 | 3rd April      | [Link](https://github.com/activist-org/activist/issues/65)             | Design contribution         | Project Activist - commented on an open issue about font suggestions  |
 | 4th April      | [Link](https://github.com/activist-org/activist/pull/93#issuecomment-1496791538) | Code contribution  | Project Activist - made a different contribution with some additions after feedback from the maintainer  |
