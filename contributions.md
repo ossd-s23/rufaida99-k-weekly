@@ -37,3 +37,4 @@ Replace the first row with your own contribution.
 | 31st March     | [Link](https://www.openstreetmap.org/changeset/134327505#map=19/40.80097/-73.96555) | OpenStreetMap  | Added local laundromat to the map |
 | 2nd-3rd April      | [Link](https://github.com/activist-org/activist/pull/92)               | Code contribution           | Project Activist - Claimed the issue I had opened before, and created a PR. It is pending a merge (passed all checks)  | 
 | 3rd April      | [Link](https://github.com/activist-org/activist/issues/65)             | Design contribution         | Project Activist - commented on an open issue about font suggestions  |
+| 4th April      | [Link](https://github.com/activist-org/activist/pull/93#issuecomment-1496791538) | Code contribution  | Project Activist - made a different contribution with some additions after feedback from the maintainer  |
