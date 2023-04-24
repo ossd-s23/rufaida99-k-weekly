@@ -39,3 +39,7 @@ Replace the first row with your own contribution.
 | 3rd April      | [Link](https://github.com/activist-org/activist/issues/65)             | Design contribution         | Project Activist - commented on an open issue about font suggestions  |
 | 4th April      | [Link](https://github.com/activist-org/activist/pull/93#issuecomment-1496791538) | Code contribution  | Project Activist - made a different contribution with some additions after feedback from the maintainer  |
 | 9th April     | [Link](https://www.openstreetmap.org/changeset/134695044#map=19/40.76145/-74.02232)   | OpenStreetMap | Added Cafe Grumpy to OpenStreetMap  |
+| 23rd April    | [Link](https://www.openstreetmap.org/changeset/135282669) | OpenStreetMap  | Added Contact Details for Courant Institute   |
+| 23rd April    | [Link](https://www.openstreetmap.org/changeset/135282711) | OpenStreetMap  | Added relevant details for Matto Espresso   |
+| 23rd April    | [Link](https://www.openstreetmap.org/changeset/135282758) | OpenStreetMap  | Added relevant details for Haven Spa   |
+
